@@ -158,7 +158,7 @@
         <mxCell id="Zl0R6k00yYDeXghojfJP-8" value="- setBookQuantity(quantity: int ): boolean&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zl0R6k00yYDeXghojfJP-0">
           <mxGeometry y="112" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zl0R6k00yYDeXghojfJP-10" value="- getStatus(): string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zl0R6k00yYDeXghojfJP-0">
+        <mxCell id="Zl0R6k00yYDeXghojfJP-10" value="+ getStatus(): string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zl0R6k00yYDeXghojfJP-0">
           <mxGeometry y="138" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zl0R6k00yYDeXghojfJP-11" value="- setSatus(status: string): boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Zl0R6k00yYDeXghojfJP-0">
