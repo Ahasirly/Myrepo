@@ -140,7 +140,7 @@
         <mxCell id="Zl0R6k00yYDeXghojfJP-8" value="- setBookQuantity(quantity: int ): boolean&#xa;" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Zl0R6k00yYDeXghojfJP-0" vertex="1">
           <mxGeometry y="112" width="320" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="Zl0R6k00yYDeXghojfJP-10" value="+ getStatus(): string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Zl0R6k00yYDeXghojfJP-0" vertex="1">
+        <mxCell id="Zl0R6k00yYDeXghojfJP-10" value="- getStatus(): string" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Zl0R6k00yYDeXghojfJP-0" vertex="1">
           <mxGeometry y="138" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="Zl0R6k00yYDeXghojfJP-11" value="- setSatus(status: string): boolean" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="Zl0R6k00yYDeXghojfJP-0" vertex="1">
@@ -155,7 +155,7 @@
         <mxCell id="G88Jjg3qUL-eyvwyXKcR-2" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="G88Jjg3qUL-eyvwyXKcR-0">
           <mxGeometry y="90" width="370" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="G88Jjg3qUL-eyvwyXKcR-3" value="&lt;div&gt;- processRefund(): boolean&lt;/div&gt;&lt;div&gt;- changeMethod(method: string): boolean&lt;/div&gt;&lt;div&gt;- changeAmoiunt(amount: int): boolean&lt;/div&gt;&lt;div&gt;+ getStatus(): string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G88Jjg3qUL-eyvwyXKcR-0">
+        <mxCell id="G88Jjg3qUL-eyvwyXKcR-3" value="&lt;div&gt;- processRefund(): boolean&lt;/div&gt;&lt;div&gt;- changeMethod(method: string): boolean&lt;/div&gt;&lt;div&gt;- changeAmoiunt(amount: int): boolean&lt;/div&gt;&lt;div&gt;- getStatus(): string&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="G88Jjg3qUL-eyvwyXKcR-0">
           <mxGeometry y="110" width="370" height="70" as="geometry" />
         </mxCell>
       </root>
